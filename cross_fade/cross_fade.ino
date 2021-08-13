@@ -49,6 +49,7 @@
 *    below the main loop.
 *
 * April 2007, Clay Shirky <clay.shirky@nyu.edu> 
+* Editing 2020, Christian Barran <justbarran@gmail.com>
 */ 
 
 // Output
